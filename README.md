@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *My Prework App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Safia Boutaleb**
 
-**Name of your app** is an app that... [TODO] 
+**My Prework App** is an app that shows my name, school, and aspirational job. It also has a button to change the background and the color of the text. 
 
 Time spent: 1 hour spent in total
 
@@ -10,8 +10,8 @@ Time spent: 1 hour spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
 * Discord
