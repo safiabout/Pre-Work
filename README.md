@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[demo video]](https://drive.google.com/file/d/1nF9kYX-phajnEM5N2dtaxzry3eNYQKZG/view?usp=sharing) .
+[demo video](https://drive.google.com/file/d/1nF9kYX-phajnEM5N2dtaxzry3eNYQKZG/view?usp=sharing) .
 
 ## App Brainstorming (Step 4)
 * Discord
