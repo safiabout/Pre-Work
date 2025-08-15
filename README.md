@@ -13,6 +13,10 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+
+[demo video]](https://drive.google.com/file/d/1nF9kYX-phajnEM5N2dtaxzry3eNYQKZG/view?usp=sharing) .
+
 ## App Brainstorming (Step 4)
 * Discord
   * Creating custom text channels
